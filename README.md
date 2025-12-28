@@ -1,11 +1,11 @@
-# 🔺 Python Pyramid Pattern Programs
+#  Python Pyramid Pattern Programs
 
 This repository contains **Python programs for various pyramid and pattern-based problems**.  
 These programs focus on **logic building, nested loops, and pattern visualization**, making them ideal for beginners and students strengthening their Python fundamentals.
 
 ---
 
-## 📌 Patterns Covered
+##  Patterns Covered
 
 The following pyramid pattern programs are included:
 
