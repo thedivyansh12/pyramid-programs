@@ -34,7 +34,8 @@ Each program demonstrates a unique pattern using **loops and conditional logic**
 
 ##  How to Run the Programs
 
-### 1️
+### make sure python is installed 
+### version 3.13.9
 
 
 Check Python Installation
